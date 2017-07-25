@@ -1,0 +1,1 @@
+Fill this folder with your own saved models! (I couldn't upload any example ones because the files were too large). Refer to my chatbot repo if you need help training and saving a Seq2Seq model.
