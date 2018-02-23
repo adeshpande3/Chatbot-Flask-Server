@@ -50,7 +50,7 @@ def pred(inputString):
     return model.idsToSentence(ids, wordList)
 
 # webapp
-app = Flask(__name__)
+app = Flask(__name__, template_folder='./')
 
 
 @app.route('/prediction', methods=['POST', 'GET'])
