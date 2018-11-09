@@ -15,7 +15,7 @@ vocabSize = len(wordList)
 batchSize = 24
 maxEncoderLength = 15
 maxDecoderLength = 15
-lstmUnits = 48
+lstmUnits = 112
 numLayersLSTM = 3
 
 # Create placeholders
